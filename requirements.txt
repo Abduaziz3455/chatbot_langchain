@@ -36,8 +36,6 @@ coloredlogs==15.0.1
 comm @ file:///croot/comm_1671231121260/work
 contourpy @ file:///croot/contourpy_1700583582875/work
 cryptography @ file:///croot/cryptography_1702070282333/work
-# Editable install with no version control (csv-agent==0.0.1)
--e /home/abduaziz/Desktop/langchain_tutorial/my-app/packages/csv-agent
 dataclasses-json==0.6.3
 datasets==2.16.1
 debugpy @ file:///croot/debugpy_1690905042057/work
